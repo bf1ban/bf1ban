@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>战地1联ban局</title>
   <id>http://bf1.likeqi.cn</id>
-  <updated>2018-08-28T19:59:05+08:00</updated>
+  <updated>2018-08-29T00:16:40+08:00</updated>
   <subtitle>私服联ban信息共享平台</subtitle>
   <link href="http://bf1.likeqi.cn"></link>
   <author>
     <name>战地1联ban局</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:bf1.likeqi.cn,2016-07-11:/ink-blog-tool.html</id>
-    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
-    <link href="http://bf1.likeqi.cn/ink-blog-tool.html"></link>
+    <title>联ban名单及提交方法</title>
+    <updated>2018-08-24T17:00:00+08:00</updated>
+    <id>tag:bf1.likeqi.cn,2018-08-24:/reportbanlist.html</id>
+    <content type="html">&lt;p&gt;联banz正式名单及提交方法&lt;/p&gt;&#xA;</content>
+    <link href="http://bf1.likeqi.cn/reportbanlist.html"></link>
     <author>
-      <name>Sora_Kasvgano</name>
+      <name>战地1联ban局</name>
+    </author>
+  </entry>
+  <entry>
+    <title>战地1联ban局介绍及审核流程</title>
+    <updated>2017-07-11T17:00:00+08:00</updated>
+    <id>tag:bf1.likeqi.cn,2017-07-11:/bf1lianban.html</id>
+    <content type="html">&lt;p&gt;战地1联ban局由大陆多个私服服主联合发起，旨在作为官方封禁的有效补充联合封杀外挂用户，为真正的玩家创造良好公平的娱乐环境。&lt;/p&gt;&#xA;</content>
+    <link href="http://bf1.likeqi.cn/bf1lianban.html"></link>
+    <author>
+      <name>战地1联ban局</name>
     </author>
   </entry>
 </feed>
