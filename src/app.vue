@@ -42,9 +42,6 @@
                 <p>
                     written by <a target="_blank" href="https://battlefieldtracker.com/bf1/profile/pc/fxodof3ts23edfsr">fxodof3ts23edfsr</a>
                 </p>
-				<p>
-                    hosted by <a target="_blank" href="https://battlefieldtracker.com/bf1/profile/pc/Sora_Kasvgano">Sora_Kasvgano</a>
-                </p>
             </footer>
         </Layout>
 </template>
