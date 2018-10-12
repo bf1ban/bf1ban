@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>战地1联ban局</title>
   <id>http://bf1.likeqi.cn</id>
-  <updated>2018-10-08T19:04:25+08:00</updated>
+  <updated>2018-10-13T00:11:51+08:00</updated>
   <subtitle>私服联ban信息共享平台</subtitle>
   <link href="http://bf1.likeqi.cn"></link>
   <author>
     <name>战地1联ban局</name>
   </author>
   <entry>
-    <title>联ban名单及提交方法</title>
+    <title>联ban名单</title>
     <updated>2018-10-07T16:00:00+08:00</updated>
     <id>tag:bf1.likeqi.cn,2018-10-07:/reportbanlist.html</id>
     <content type="html">&lt;p&gt;联banz正式名单及提交方法&lt;/p&gt;&#xA;</content>
@@ -19,8 +19,8 @@
   </entry>
   <entry>
     <title>战地1联ban局介绍及审核流程</title>
-    <updated>2017-07-11T17:00:00+08:00</updated>
-    <id>tag:bf1.likeqi.cn,2017-07-11:/bf1lianban.html</id>
+    <updated>2018-10-13T17:00:00+08:00</updated>
+    <id>tag:bf1.likeqi.cn,2018-10-13:/bf1lianban.html</id>
     <content type="html">&lt;p&gt;战地1联ban局由大陆多个私服服主联合发起，旨在作为官方封禁的有效补充联合封杀外挂用户，为真正的玩家创造良好公平的娱乐环境。&lt;/p&gt;&#xA;</content>
     <link href="http://bf1.likeqi.cn/bf1lianban.html"></link>
     <author>
